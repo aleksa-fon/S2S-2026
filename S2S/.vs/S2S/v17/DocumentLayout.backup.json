@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\student2\\Downloads\\silab\\S2S\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\brokerbazepodataka\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\brokerbazepodataka\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\models\\utils\\opstidomenskimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\models\\utils\\opstidomenskimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\models\\igrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\models\\igrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\brokerbazepodataka\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\brokerbazepodataka\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\brokerbazepodataka\\sobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\brokerbazepodataka\\sobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\forma.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\forma.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\models\\utils\\statusprijave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\models\\utils\\statusprijave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,12 +19,56 @@
       "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\servisi\\bazaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\servisi\\bazaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\forma.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\forma.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\brokerbazepodataka\\soprijavaigraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\brokerbazepodataka\\soprijavaigraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\brokerbazepodataka\\sobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\brokerbazepodataka\\sobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\brokerbazepodataka\\sododajigraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\brokerbazepodataka\\sododajigraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\models\\igrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\models\\igrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\brokerbazepodataka\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\brokerbazepodataka\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\models\\utils\\opstidomenskimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\models\\utils\\opstidomenskimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\brokerbazepodataka\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\brokerbazepodataka\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\models\\utils\\statusprijave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\models\\utils\\statusprijave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "S2S\\wwwroot\\app.css",
@@ -75,76 +91,36 @@
               "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-10-17T12:48:47.478Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Igrac.cs",
-              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Models\\Igrac.cs",
-              "RelativeDocumentMoniker": "S2S\\Components\\Models\\Igrac.cs",
-              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Models\\Igrac.cs",
-              "RelativeToolTip": "S2S\\Components\\Models\\Igrac.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T14:19:10.092Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OpstiDomenskiModel.cs",
-              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Models\\Utils\\OpstiDomenskiModel.cs",
-              "RelativeDocumentMoniker": "S2S\\Components\\Models\\Utils\\OpstiDomenskiModel.cs",
-              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Models\\Utils\\OpstiDomenskiModel.cs",
-              "RelativeToolTip": "S2S\\Components\\Models\\Utils\\OpstiDomenskiModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T14:16:51.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "SOBase.cs",
               "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\SOBase.cs",
               "RelativeDocumentMoniker": "S2S\\BrokerBazePodataka\\SOBase.cs",
               "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\SOBase.cs",
               "RelativeToolTip": "S2S\\BrokerBazePodataka\\SOBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T14:06:36.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T14:06:36.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Broker.cs",
               "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\Broker.cs",
               "RelativeDocumentMoniker": "S2S\\BrokerBazePodataka\\Broker.cs",
               "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\Broker.cs",
               "RelativeToolTip": "S2S\\BrokerBazePodataka\\Broker.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAQwFgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T13:13:37.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T13:13:37.892Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DbConection.cs",
-              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\DbConection.cs",
-              "RelativeDocumentMoniker": "S2S\\BrokerBazePodataka\\DbConection.cs",
-              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\DbConection.cs",
-              "RelativeToolTip": "S2S\\BrokerBazePodataka\\DbConection.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwDEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T13:13:26.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "S2S\\Components\\Layout\\NavMenu.razor",
@@ -152,23 +128,25 @@
               "RelativeToolTip": "S2S\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T12:55:21.43Z"
+              "WhenOpened": "2026-10-17T12:55:21.43Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "S2S\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "S2S\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T12:47:35.146Z"
+              "WhenOpened": "2026-10-17T12:47:35.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "StatusPrijave.cs",
               "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Models\\Utils\\StatusPrijave.cs",
               "RelativeDocumentMoniker": "S2S\\Components\\Models\\Utils\\StatusPrijave.cs",
@@ -181,18 +159,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Program.cs",
+              "RelativeDocumentMoniker": "S2S\\Program.cs",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Program.cs",
+              "RelativeToolTip": "S2S\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T11:10:50.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Forma.razor",
               "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Forma.razor",
               "RelativeDocumentMoniker": "S2S\\Components\\Forma.razor",
               "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Forma.razor",
               "RelativeToolTip": "S2S\\Components\\Forma.razor",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T11:16:25.07Z"
+              "WhenOpened": "2026-10-17T11:16:25.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\App.razor",
+              "RelativeDocumentMoniker": "S2S\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\App.razor",
+              "RelativeToolTip": "S2S\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T11:11:34.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "S2S\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Routes.razor",
+              "RelativeToolTip": "S2S\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T15:34:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BazaServis.cs",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Servisi\\BazaServis.cs",
+              "RelativeDocumentMoniker": "S2S\\Servisi\\BazaServis.cs",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Servisi\\BazaServis.cs",
+              "RelativeToolTip": "S2S\\Servisi\\BazaServis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:11:27.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Igrac.cs",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Models\\Igrac.cs",
+              "RelativeDocumentMoniker": "S2S\\Components\\Models\\Igrac.cs",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Models\\Igrac.cs",
+              "RelativeToolTip": "S2S\\Components\\Models\\Igrac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T14:19:10.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SODodajIgraca.cs",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\SODodajIgraca.cs",
+              "RelativeDocumentMoniker": "S2S\\BrokerBazePodataka\\SODodajIgraca.cs",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\SODodajIgraca.cs",
+              "RelativeToolTip": "S2S\\BrokerBazePodataka\\SODodajIgraca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T14:56:05.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SOPrijavaIgraca.cs",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\SOPrijavaIgraca.cs",
+              "RelativeDocumentMoniker": "S2S\\BrokerBazePodataka\\SOPrijavaIgraca.cs",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\SOPrijavaIgraca.cs",
+              "RelativeToolTip": "S2S\\BrokerBazePodataka\\SOPrijavaIgraca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:04:23.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbConection.cs",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\DbConection.cs",
+              "RelativeDocumentMoniker": "S2S\\BrokerBazePodataka\\DbConection.cs",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\DbConection.cs",
+              "RelativeToolTip": "S2S\\BrokerBazePodataka\\DbConection.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwDEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T13:13:26.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OpstiDomenskiModel.cs",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Models\\Utils\\OpstiDomenskiModel.cs",
+              "RelativeDocumentMoniker": "S2S\\Components\\Models\\Utils\\OpstiDomenskiModel.cs",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Models\\Utils\\OpstiDomenskiModel.cs",
+              "RelativeToolTip": "S2S\\Components\\Models\\Utils\\OpstiDomenskiModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T14:16:51.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "S2S\\Components\\Pages\\Home.razor",
@@ -201,30 +292,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-17T11:15:14.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\App.razor",
-              "RelativeDocumentMoniker": "S2S\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\App.razor",
-              "RelativeToolTip": "S2S\\Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T11:11:34.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Program.cs",
-              "RelativeDocumentMoniker": "S2S\\Program.cs",
-              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Program.cs",
-              "RelativeToolTip": "S2S\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T11:10:50.201Z"
             }
           ]
         }

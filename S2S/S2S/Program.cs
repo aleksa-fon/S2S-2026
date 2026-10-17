@@ -1,4 +1,5 @@
 using S2S.Components;
+using S2S.Servisi;
 
 namespace S2S
 {
@@ -11,7 +12,7 @@ namespace S2S
             // Add services to the container.
             builder.Services.AddRazorComponents()
                 .AddInteractiveServerComponents();
-
+            builder.Services.AddScoped<BazaServis>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

@@ -1,5 +1,6 @@
-﻿@using S2S.Components.Models.Utils
-
+﻿@using S2S.Components.Models
+@using S2S.Components.Models.Utils
+@using S2S.Servisi
 <p class="auth-title">
     @(statusPrijave == StatusPrijave.Prijava ? "Prijavi se" : "Registruj se")</p>
 
@@ -13,6 +14,8 @@
     StatusPrijave statusPrijave = StatusPrijave.Prijava;
     string? Ime;
     string? Lozinka;
+    BazaServis bazaServis = new BazaServis();
+
 
     void PromeniStatusPrijave()
     {
@@ -26,7 +29,15 @@
         }
     }
 
-    private void Registracija(){}
+    private void Registracija()
+    {
+        Igrac i = new Igrac
+            {
+                Nadimak = Ime,
+                Lozinka = Lozinka
+            };
+        bazaServis.DodajIgraca(i);
+    }
     private void Prijava(){}
 }
 <style>

@@ -18,7 +18,16 @@ namespace S2S.Components.Models
 
         public List<OpstiDomenskiObjekat> GetReaderList(SqlDataReader reader)
         {
-            throw new NotImplementedException();
+            List<OpstiDomenskiObjekat> res = new List<OpstiDomenskiObjekat> ();
+            while (reader.Read()) {
+                Igrac i = new Igrac
+                {
+                    Nadimak = (string)reader["Nadimak"],
+                    Lozinka = (string)reader["Lozinka"]
+                };
+                res.Add (i);
+            }
+            return res;
         }
     }
 }

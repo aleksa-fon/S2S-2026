@@ -2,7 +2,7 @@
 {
     public abstract class SOBase
     {
-        private Broker broker;
+        public Broker broker;
 
         public SOBase()
         {

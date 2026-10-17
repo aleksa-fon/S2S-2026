@@ -1,0 +1,28 @@
+﻿@using S2S.Components.Models.Utils
+<h3>Forma</h3>
+<p class="auth-title">
+    @(statusPrijave == StatusPrijave.Prijava ? "Prijavi se" : "Registruj se")</p>
+
+<label class="auth-lable">Korisničko ime</label>
+<input type="text" class="player-input auth-input" @bind="Ime" @bind:event="oninput">
+<label class="auth-lable">Lozinka</label>
+<input type="password" class="player-input auth-input" @bind="Lozinka" @bind:event="oninput">
+<button>@(statusPrijave == StatusPrijave.Prijava ? "Prijavi se" : "Registruj se" )</button>
+<button @onclick="PromeniStatusPrijave">@(statusPrijave == StatusPrijave.Prijava ? "Registruj se" : "Prijavi se")</button>
+@code {
+    StatusPrijave statusPrijave = StatusPrijave.Prijava;
+    string Ime;
+    string Lozinka;
+
+    void PromeniStatusPrijave()
+    {
+        if(statusPrijave == StatusPrijave.Prijava)
+        {
+            statusPrijave = StatusPrijave.Registracija;
+        }
+        else
+        {
+            statusPrijave = StatusPrijave.Prijava;
+        }
+    }
+}

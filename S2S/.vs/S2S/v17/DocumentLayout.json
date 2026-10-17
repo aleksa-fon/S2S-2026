@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\student2\\Desktop\\silab\\S2S\\",
+  "WorkspaceRootPath": "C:\\Users\\student2\\Downloads\\silab\\S2S\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\desktop\\silab\\s2s\\s2s\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\brokerbazepodataka\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\brokerbazepodataka\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\desktop\\silab\\s2s\\s2s\\components\\forma.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\forma.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\forma.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\desktop\\silab\\s2s\\s2s\\components\\models\\utils\\statusprijave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\brokerbazepodataka\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\brokerbazepodataka\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\models\\utils\\statusprijave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\models\\utils\\statusprijave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\desktop\\silab\\s2s\\s2s\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\desktop\\silab\\s2s\\s2s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|c:\\users\\student2\\downloads\\silab\\s2s\\s2s\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E130D2D-A3CA-4EBB-829A-74DEF0DC60D1}|S2S\\S2S.csproj|solutionrelative:s2s\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,59 +50,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "S2S\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\wwwroot\\app.css",
+              "RelativeToolTip": "S2S\\wwwroot\\app.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-17T12:48:47.478Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\Broker.cs",
+              "RelativeDocumentMoniker": "S2S\\BrokerBazePodataka\\Broker.cs",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\Broker.cs",
+              "RelativeToolTip": "S2S\\BrokerBazePodataka\\Broker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T13:13:37.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbConection.cs",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\DbConection.cs",
+              "RelativeDocumentMoniker": "S2S\\BrokerBazePodataka\\DbConection.cs",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\BrokerBazePodataka\\DbConection.cs",
+              "RelativeToolTip": "S2S\\BrokerBazePodataka\\DbConection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T13:13:26.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "S2S\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "S2S\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T12:55:21.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "S2S\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "S2S\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T12:47:35.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StatusPrijave.cs",
-              "DocumentMoniker": "C:\\Users\\student2\\Desktop\\silab\\S2S\\S2S\\Components\\Models\\Utils\\StatusPrijave.cs",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Models\\Utils\\StatusPrijave.cs",
               "RelativeDocumentMoniker": "S2S\\Components\\Models\\Utils\\StatusPrijave.cs",
-              "ToolTip": "C:\\Users\\student2\\Desktop\\silab\\S2S\\S2S\\Components\\Models\\Utils\\StatusPrijave.cs",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Models\\Utils\\StatusPrijave.cs",
               "RelativeToolTip": "S2S\\Components\\Models\\Utils\\StatusPrijave.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,35 +135,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Forma.razor",
-              "DocumentMoniker": "C:\\Users\\student2\\Desktop\\silab\\S2S\\S2S\\Components\\Forma.razor",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Forma.razor",
               "RelativeDocumentMoniker": "S2S\\Components\\Forma.razor",
-              "ToolTip": "C:\\Users\\student2\\Desktop\\silab\\S2S\\S2S\\Components\\Forma.razor",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Forma.razor",
               "RelativeToolTip": "S2S\\Components\\Forma.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-17T11:16:25.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\student2\\Desktop\\silab\\S2S\\S2S\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "S2S\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\student2\\Desktop\\silab\\S2S\\S2S\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "S2S\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-17T11:15:14.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\student2\\Desktop\\silab\\S2S\\S2S\\Components\\App.razor",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\App.razor",
               "RelativeDocumentMoniker": "S2S\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\student2\\Desktop\\silab\\S2S\\S2S\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Components\\App.razor",
               "RelativeToolTip": "S2S\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -130,13 +172,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\student2\\Desktop\\silab\\S2S\\S2S\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Program.cs",
               "RelativeDocumentMoniker": "S2S\\Program.cs",
-              "ToolTip": "C:\\Users\\student2\\Desktop\\silab\\S2S\\S2S\\Program.cs",
+              "ToolTip": "C:\\Users\\student2\\Downloads\\silab\\S2S\\S2S\\Program.cs",
               "RelativeToolTip": "S2S\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T11:10:50.201Z",
               "EditorCaption": ""
